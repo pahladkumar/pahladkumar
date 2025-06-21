@@ -1,5 +1,5 @@
 # 💻 Hi, I'm Pahlad Kumar Sahani  
-### **Full Stack Developer | Desktop & Web Applications Specialist**
+### **Full Stack Developer | Web Applications Specialist**
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -41,14 +41,14 @@
 ---
 
 ## 🚀 **Featured Projects**
-### **1. Kimaya - Medical Management System (Desktop App)**
+### **1. Kimaya - Medical Management System (Web App)**
 - **Tech:** PHP, MySQL, Bootstrap, AJAX  
 - **Features:**  
   - Patient records & medicine inventory  
   - Doctor appointment scheduling  
   - Data visualization dashboard  
 
-### **2. Paanipranali - Water Management System (Desktop App)**
+### **2. Paanipranali - Water Management System (Web App)**
 - **Tech:** PHP, AJAX, Bootstrap, MySQL  
 - **Features:**  
   - Water resource tracking  
